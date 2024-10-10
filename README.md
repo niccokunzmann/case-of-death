@@ -11,7 +11,7 @@ If you believe that I am absent from work for 6 months and you would like to tak
 > ... your link goes here ... as the new maintained fork.
 > This is based on https://github.com/niccokunzmann/case-of-death/
 
-With this, the community can gather around to find a solution to their problems. I will be notified, too, so I can make sure you do not think I am deadd :)
+With this, the community can gather around to find a solution to their problems. I will be notified, too, so I can make sure you do not think I am dead :) In either case, I appreciate your enthusiasm :) Hehe
 
 ## What does not happen
 
