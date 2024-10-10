@@ -28,7 +28,7 @@ We need to come together as a community to look at our health beyond code. This 
 You can contribute to this in many ways:
 
 - Give this a star if you think having such a repo is a good idea.
-- Give this a fork and pin it, adapt it to your needs.
+- Give this a fork and pin it, adapt it to your needs. This gives people clarity for how to deal with your absence and *dead* lines around this.
 - Open an issue to clarify if you think this process is problematic and should be amended.
 
 ## Context
